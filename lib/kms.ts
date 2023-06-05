@@ -65,3 +65,6 @@ export default class KMSConstruct extends Construct {
         });
     }
 }
+
+
+export { KMSConstruct };
